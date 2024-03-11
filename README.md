@@ -1,3 +1,3 @@
 # KeyLogger
 
-It is project for practice C++ skills
+It is project for practicing my C++ skills
